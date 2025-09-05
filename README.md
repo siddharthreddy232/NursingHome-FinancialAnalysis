@@ -29,7 +29,7 @@ sid3_extracted/
 ├── data/                  # Raw and cleaned CMS datasets (2015–2021)
 ├── notebooks/             # EDA, regression, visualization notebooks
 ├── plots/                 # Generated plots and graphs
-├── final report.docx      # Summary report for BANA 620
+├── `final report bana620.docx      # Summary report for BANA 620
 └── readme.md              # This file
 ```
 
@@ -70,6 +70,4 @@ Fines dropped to **zero** during COVID, reflecting policy leniency.
 
 - See `final report bana620.docx` for the complete findings and analysis.
 
-## 👨‍💻 Authors
 
-- This project was submitted as part of **BANA 620: Data Analysis** (Fall 2025).
