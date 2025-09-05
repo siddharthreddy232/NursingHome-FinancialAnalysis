@@ -42,13 +42,13 @@ Larger facilities (>100 beds) saw up to **1178% increase** in net income during 
 ---
 
 ### 2. Mean Net Income Pre-COVID vs COVID
-![Net Income Periods](https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/tree/main)
+![Net Income Periods](https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/blob/main/qn%205.png)
 Net income rose drastically in 2020–2021 compared to 2015–2019.
 
 ---
 
 ### 3. Penalties and Fines Over Time
-![Penalties and Fines](https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/tree/main)
+![Penalties and Fines](feature variable 4.png)
 Fines dropped to **zero** during COVID, reflecting policy leniency.
 
 ---
