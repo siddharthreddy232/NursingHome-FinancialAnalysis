@@ -36,7 +36,7 @@ sid3_extracted/
 ## 📈 Key Graphs and Insights
 
 ### 1. COVID Impact on Net Income by Facility Size
-![COVID Impact]("C:\Users\admin\Downloads\sid 3\1st qn original output.png")
+![COVID Impact]1st qn output.png
 Larger facilities (>100 beds) saw up to **1178% increase** in net income during COVID-19.
 
 ---
