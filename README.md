@@ -36,19 +36,19 @@ sid3_extracted/
 ## 📈 Key Graphs and Insights
 
 ### 1. COVID Impact on Net Income by Facility Size
-![COVID Impact]https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/blob/main/1st%20qn%20original%20output.png
+![COVID Impact](https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/blob/main/1st%20qn%20original%20output.png)
 Larger facilities (>100 beds) saw up to **1178% increase** in net income during COVID-19.
 
 ---
 
 ### 2. Mean Net Income Pre-COVID vs COVID
-![Net Income Periods] ("https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/tree/main")
+![Net Income Periods](https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/tree/main)
 Net income rose drastically in 2020–2021 compared to 2015–2019.
 
 ---
 
 ### 3. Penalties and Fines Over Time
-![Penalties and Fines]("C:\Users\admin\Downloads\sid 3\feature variable 4.png")
+![Penalties and Fines](https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/tree/main)
 Fines dropped to **zero** during COVID, reflecting policy leniency.
 
 ---
