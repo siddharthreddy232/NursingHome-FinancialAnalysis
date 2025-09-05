@@ -36,7 +36,7 @@ sid3_extracted/
 ## 📈 Key Graphs and Insights
 
 ### 1. COVID Impact on Net Income by Facility Size
-![COVID Impact]1st qn output.png
+![COVID Impact]https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/blob/main/1st%20qn%20original%20output.png
 Larger facilities (>100 beds) saw up to **1178% increase** in net income during COVID-19.
 
 ---
