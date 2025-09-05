@@ -42,7 +42,7 @@ Larger facilities (>100 beds) saw up to **1178% increase** in net income during 
 ---
 
 ### 2. Mean Net Income Pre-COVID vs COVID
-![Net Income Periods](qn2 - 1.png)
+![Net Income Periods] ("https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/tree/main")
 Net income rose drastically in 2020–2021 compared to 2015–2019.
 
 ---
