@@ -37,25 +37,26 @@ sid3_extracted/
 ## 📈 Key Graphs and Insights
 
 ### 1. COVID Impact on Net Income by Facility Size
-![COVID Impact](sandbox:/mnt/data/impact_facility_size.png)  
+![COVID Impact]("C:\Users\admin\Downloads\sid 3\1st qn original output.png")
 Larger facilities (>100 beds) saw up to **1178% increase** in net income during COVID-19.
 
 ---
 
 ### 2. Mean Net Income Pre-COVID vs COVID
-![Net Income Periods](sandbox:/mnt/data/net_income_pre_vs_covid.png)  
+![Net Income Periods]("C:\Users\admin\Downloads\sid 3\qn2 - 1.png")
 Net income rose drastically in 2020–2021 compared to 2015–2019.
 
 ---
 
 ### 3. Penalties and Fines Over Time
-![Penalties and Fines](sandbox:/mnt/data/penalties_fines_trend.png)  
+![Penalties and Fines]("C:\Users\admin\Downloads\sid 3\feature variable 4.png")
 Fines dropped to **zero** during COVID, reflecting policy leniency.
 
 ---
 
 ### 4. Quality vs Staffing Ratings (2015–2017)
-![Ratings](sandbox:/mnt/data/quality_vs_staffing.png)  
+![Ratings]("C:\Users\admin\Downloads\sid 3\feature variable 3.png")
+("C:\Users\admin\Downloads\sid 3\feature variable 5.png")
 Staffing rating decreased while overall quality slightly improved.
 
 ## 💡 Conclusion Highlights
@@ -73,7 +74,7 @@ Staffing rating decreased while overall quality slightly improved.
 
 ## 📄 Final Report
 
-- See `final report.docx` for the complete findings and analysis.
+- See `final report bana620.docx` for the complete findings and analysis.
 
 ## 👨‍💻 Authors
 
