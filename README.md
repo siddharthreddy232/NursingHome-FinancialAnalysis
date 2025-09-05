@@ -51,12 +51,7 @@ Net income rose drastically in 2020–2021 compared to 2015–2019.
 ![Penalties and Fines](https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/blob/main/qn%204%20-%202.png)
 Fines dropped to **zero** during COVID, reflecting policy leniency.
 
----
 
-### 4. Quality vs Staffing Ratings (2015–2017)
-![Ratings](https://github.com/siddharthreddy232/NursingHome-FinancialAnalysis/blob/main/qn%204%20-%201.png)
-("C:\Users\admin\Downloads\sid 3\feature variable 5.png")
-Staffing rating decreased while overall quality slightly improved.
 
 ## 💡 Conclusion Highlights
 
